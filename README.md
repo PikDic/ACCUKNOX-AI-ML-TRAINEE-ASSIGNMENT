@@ -39,7 +39,9 @@ This repository contains solutions for the AccuKnox AI/ML assignment.
 📁 CSV Location: Problem-statement-1/data/
 
 ---
-  
+### Problem statement 2(Research based)
+
+  📄 PDF Location : Problem-statement-2.pdf
 
 
 ## How to Run Tasks 1.1 and 1.3
