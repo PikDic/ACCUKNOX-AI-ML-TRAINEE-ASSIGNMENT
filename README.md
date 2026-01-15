@@ -16,7 +16,7 @@ This repository contains solutions for the AccuKnox AI/ML assignment.
 
 📁 Code location: Problem Statement 1/src/
 
---------------------------------------------------
+---
 
 ### Task 1.2 – Data Processing and Visualization
 - Implemented in Google Colab
@@ -25,7 +25,7 @@ This repository contains solutions for the AccuKnox AI/ML assignment.
   
 📁 Notebook: Problem-statement-1/Task 1.2_.ipynb
 
--------------------------------------------------
+---
 
 ### Task 1.3 – CSV Data Import to Database
 - Uses a real CSV file
@@ -34,11 +34,9 @@ This repository contains solutions for the AccuKnox AI/ML assignment.
 📁 Script Location: Problem-statement-1/scripts/import_csv_to_db.py
 📁 CSV Location: Problem-statement-1/data/
 
----------------------------------------------------
-  
-## How to Run Tasks 1.1 and 1.3
-
 ---
+  
+
 
 ## How to Run Tasks 1.1 and 1.3
 
