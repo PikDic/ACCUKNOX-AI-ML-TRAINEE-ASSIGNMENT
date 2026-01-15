@@ -45,7 +45,7 @@ resume: https://drive.google.com/file/d/1m5xhwXanI_dnRq_ZOYTCa52K5N6O-axb/view?u
 ## How to Run Tasks 1.1 and 1.3
 
 1. Navigate to the folder:
-   cd "Problem statement 1"
+   cd "Problem-statement-1"
 
 2. Install dependencies:
    python -m pip install -r requirements.txt
