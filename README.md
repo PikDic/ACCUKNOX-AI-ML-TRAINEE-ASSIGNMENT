@@ -39,17 +39,23 @@ This repository contains solutions for the AccuKnox AI/ML assignment.
 📁 CSV Location: Problem-statement-1/data/
 
 ---
+
 ### Task 1.4 – link to the most complex Python code I have written
 
    link : https://github.com/PikDic/UPI-Fraud-Detection/blob/main/UPI_FRAUD_DETECTION_CAPSTONE_PROJECT%20copy.ipynb
+   
 ---
+
 ### Task 1.5 - link to the most complex database code I have written
   link : https://github.com/PikDic/Airtel-customer-churn-Analysis/blob/main/Notebook/churn_prediction.ipynb
+  
 ---
-### Problem statement 2(Research based)
 
+### Problem statement 2(Research based)
+---
   📄 PDF Location : Problem-statement-2.pdf
 
+---
 
 ## How to Run Tasks 1.1 and 1.3
 
