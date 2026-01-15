@@ -2,9 +2,9 @@
 
 This repository contains solutions for the AccuKnox AI/ML assignment.
 
-Pratik Kishor Nayak
-mail: kishorpratik023@gmail.com
-resume: https://drive.google.com/file/d/1m5xhwXanI_dnRq_ZOYTCa52K5N6O-axb/view?usp=drive_link
+#Pratik Kishor Nayak
+#mail: kishorpratik023@gmail.com
+#resume: https://drive.google.com/file/d/1m5xhwXanI_dnRq_ZOYTCa52K5N6O-axb/view?usp=drive_link
 
 --------------------------------------------------------------
 
