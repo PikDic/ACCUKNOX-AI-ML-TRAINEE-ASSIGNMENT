@@ -52,7 +52,6 @@ This repository contains solutions for the AccuKnox AI/ML assignment.
 ---
 
 ### Problem statement 2(Research based)
----
   📄 PDF Location : Problem-statement-2.pdf
 
 ---
